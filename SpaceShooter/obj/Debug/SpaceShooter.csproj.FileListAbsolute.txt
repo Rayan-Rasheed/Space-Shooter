@@ -1,0 +1,13 @@
+E:\OOP\AfterMid\spaceshooter\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe.config
+E:\OOP\AfterMid\spaceshooter\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.exe
+E:\OOP\AfterMid\spaceshooter\SpaceShooter\SpaceShooter\bin\Debug\SpaceShooter.pdb
+E:\OOP\AfterMid\spaceshooter\SpaceShooter\SpaceShooter\bin\Debug\EZInput.dll
+E:\OOP\AfterMid\spaceshooter\SpaceShooter\SpaceShooter\bin\Debug\EZInput.xml
+E:\OOP\AfterMid\spaceshooter\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.AssemblyReference.cache
+E:\OOP\AfterMid\spaceshooter\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.FormMain.resources
+E:\OOP\AfterMid\spaceshooter\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.Properties.Resources.resources
+E:\OOP\AfterMid\spaceshooter\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.GenerateResource.cache
+E:\OOP\AfterMid\spaceshooter\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CoreCompileInputs.cache
+E:\OOP\AfterMid\spaceshooter\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.csproj.CopyComplete
+E:\OOP\AfterMid\spaceshooter\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.exe
+E:\OOP\AfterMid\spaceshooter\SpaceShooter\SpaceShooter\obj\Debug\SpaceShooter.pdb
